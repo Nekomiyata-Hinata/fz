@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /Home/Search/index.html
+Disallow: /info-*.html$
+Disallow: /dev/runCode/*.html$
+Disallow: /dev/Scrapy/*.html$
+Disallow: /Home/Index/loadIndex.html
+Disallow: /Home/Index/apizl.html
+Disallow: /gj/dazilianxi/
+
+Sitemap: https://www.toolnb.com/sitemap.xml
